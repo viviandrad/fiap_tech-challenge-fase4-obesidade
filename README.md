@@ -140,7 +140,7 @@ Após o pré-processamento, foram avaliados diferentes algoritmos de Machine Lea
 - F1-Score  
 - Matriz de confusão  
 
-O modelo **Random Forest** apresentou o melhor desempenho geral, atingindo acurácia superior a 75%, sendo selecionado como modelo final.
+O modelo **Random Forest** apresentou o melhor desempenho geral, atingindo acurácia de 94%, sendo selecionado como modelo final.
 
 ---
 
