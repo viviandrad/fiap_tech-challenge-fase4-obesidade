@@ -76,7 +76,7 @@ Esses insights auxiliam a equipe médica na compreensão dos fatores associados 
 ---
 
 ## 🗂️ Estrutura do Repositório
-'''
+```
 fiap-tech-challenge-fase4-obesidade/
 │
 ├── app/
@@ -103,7 +103,7 @@ fiap-tech-challenge-fase4-obesidade/
 │
 └── README.md
     # Documentação geral do projeto
-'''
+```
 
 ## ⚙️ Tecnologias Utilizadas
 - Python
