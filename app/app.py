@@ -15,7 +15,7 @@ st.set_page_config(
 # =====================================================
 # CARREGAR MODELO
 # =====================================================
-modelo = joblib.load("../models/modelo_obesidade.pkl")
+modelo = joblib.load("models/modelo_obesidade.pkl")
 COLUNAS_MODELO = list(modelo.feature_names_in_)
 
 # =====================================================
