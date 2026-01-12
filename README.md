@@ -69,7 +69,9 @@ O projeto também apresenta uma **visão analítica integrada**, com gráficos e
 
 - Distribuição dos níveis de obesidade  
 - Relação entre atividade física e obesidade  
-- Influência dos hábitos alimentares nos níveis de obesidade  
+- Influência dos hábitos alimentares nos níveis de obesidade
+
+- Link: https://lookerstudio.google.com/reporting/077594f4-08b5-46dc-95e4-34510bf33224
 
 Esses insights auxiliam a equipe médica na compreensão dos fatores associados à obesidade e no planejamento de estratégias preventivas.
 
