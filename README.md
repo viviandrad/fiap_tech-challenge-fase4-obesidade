@@ -133,7 +133,8 @@ Após o pré-processamento, foram avaliados diferentes algoritmos de Machine Lea
 
 **Modelos testados:**
 - Random Forest *(modelo final escolhido)*  
-- Logistic Regression  
+- Logistic Regression
+- XGBoost
 
 **Métricas avaliadas:**
 - Acurácia  
